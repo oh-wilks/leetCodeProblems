@@ -1,5 +1,4 @@
 nums = [1,2,1]
-
 n = len(nums)
 ans = [] 
 
