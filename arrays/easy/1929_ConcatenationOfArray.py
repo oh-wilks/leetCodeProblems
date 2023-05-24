@@ -7,5 +7,4 @@ for i in [nums, nums]:
     for j in nums:
         ans.append(j)
 
-        
 print(ans)
